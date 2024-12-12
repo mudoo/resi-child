@@ -1,0 +1,29 @@
+{
+  "name": "resi-child",
+  "version": "1.0.0",
+  "description": "Native JS responsive child element plugin",
+  "main": "resi-child.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudoo/resi-child.git"
+  },
+  "keywords": [
+    "responsive",
+    "resize",
+    "popover",
+    "child",
+    "element"
+  ],
+  "files": [
+    "/resi-child.js"
+  ],
+  "author": "mudoo <mudoo@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudoo/resi-child/issues"
+  },
+  "homepage": "https://github.com/mudoo/resi-child#readme"
+}
